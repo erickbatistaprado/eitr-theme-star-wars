@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "star-wars",
+  "name": "Star Wars",
+  "description": "Lightsaber red on deep space with Sith and Mandalorian art",
+  "version": "1.0.0",
+  "light": false
+}
